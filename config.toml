@@ -40,7 +40,7 @@ URL = "plugins/slick/slick.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
-URL = "custom.css"
+URL = "/custom.css"
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
